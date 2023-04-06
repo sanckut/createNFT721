@@ -1,4 +1,4 @@
-# Sample NFT Project
+# Sample NFT Smart Contract
 
 How to create nft in base goerli with Hardhat
 
