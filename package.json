@@ -1,13 +1,13 @@
 {
-  "name": "baseorg",
-  "version": "1.0.0",
-  "description": "",
+  "name": "createsamplenft",
+  "version": "1.1.4",
+  "description": "How to create nft in base goerli with Hardhat",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "sanckut",
   "license": "ISC",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
@@ -17,5 +17,16 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanckut/createSampleNFT.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sanckut/createSampleNFT/issues"
+  },
+  "homepage": "https://github.com/sanckut/createSampleNFT#readme"
 }
