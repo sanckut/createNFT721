@@ -7,7 +7,7 @@ How to create nft in base goerli with Hardhat
 
 You can find API KEY here: https://base-goerli.blockscout.com/account/api_key
 
-Try running some of the following tasks:
+Try running some of the following tasks :
 
 ```shell
 npm install
